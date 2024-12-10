@@ -20,7 +20,7 @@ WASD to move
 
 LMB to attack/gather.
 
-press Q to use ability 1
+Press Q to use ability 1
 
 Press E to use ability 2
 
