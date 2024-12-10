@@ -3,3 +3,8 @@ html, body {
   height: 100%;
   margin: 0px;
 }
+
+body{
+    overflow-x:hidden;
+	overflow-y:hidden;
+}
